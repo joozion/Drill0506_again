@@ -61,6 +61,7 @@ def set_new_target_arrow():
         frame = 0
         target_exists = False
 
+
 def render_world():
     clear_canvas()
     TUK_ground.draw(TUK_WIDTH // 2, TUK_HEIGHT // 2)
